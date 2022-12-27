@@ -1,0 +1,7 @@
+phonenumbers~=8.13.3
+telebot~=0.0.4
+DateTime~=4.9
+google~=3.0.0
+schedule~=1.1.0
+django-scheduler~=0.10.0
+pyTelegramBotApi
